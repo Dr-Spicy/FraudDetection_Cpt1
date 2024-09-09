@@ -15,3 +15,5 @@ catboost_res.pkl
 *.pkl
 FraudDetectionCpt1 - Copy.ipynb
 *.pkl
+*.pkl
+lgbm_res.pkl
