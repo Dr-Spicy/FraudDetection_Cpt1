@@ -17,3 +17,4 @@ FraudDetectionCpt1 - Copy.ipynb
 *.pkl
 *.pkl
 lgbm_res.pkl
+test.ipynb
