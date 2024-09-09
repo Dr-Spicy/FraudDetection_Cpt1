@@ -12,3 +12,6 @@ best_logistic_regression_model.pkl
 best_svm_model.pkl
 /catboost_info
 catboost_res.pkl
+*.pkl
+FraudDetectionCpt1 - Copy.ipynb
+*.pkl
